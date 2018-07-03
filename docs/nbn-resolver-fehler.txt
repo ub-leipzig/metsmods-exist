@@ -1,0 +1,5075 @@
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0007-98407  not found at DNB
+Match: not found
+Start location: 66:31
+Offset: 2883
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0007-98411  not found at DNB
+Match: not found
+Start location: 68:31
+Offset: 3032
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0007-98422  not found at DNB
+Match: not found
+Start location: 70:31
+Offset: 3181
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0007-98433  not found at DNB
+Match: not found
+Start location: 72:31
+Offset: 3330
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0007-98445  not found at DNB
+Match: not found
+Start location: 74:31
+Offset: 3479
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0007-98453  not found at DNB
+Match: not found
+Start location: 76:31
+Offset: 3628
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0007-98469  not found at DNB
+Match: not found
+Start location: 78:31
+Offset: 3777
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0007-98479  not found at DNB
+Match: not found
+Start location: 80:31
+Offset: 3926
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0007-99154  not found at DNB
+Match: not found
+Start location: 82:31
+Offset: 4075
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-120355  not found at DNB
+Match: not found
+Start location: 1161:32
+Offset: 51614
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-121789  not found at DNB
+Match: not found
+Start location: 1184:32
+Offset: 52689
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-137836  not found at DNB
+Match: not found
+Start location: 1339:32
+Offset: 59572
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-139485  not found at DNB
+Match: not found
+Start location: 1381:32
+Offset: 61483
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-147759  not found at DNB
+Match: not found
+Start location: 1425:32
+Offset: 63482
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-154690  not found at DNB
+Match: not found
+Start location: 1457:32
+Offset: 64953
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-154703  not found at DNB
+Match: not found
+Start location: 1459:32
+Offset: 65104
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-162290  not found at DNB
+Match: not found
+Start location: 1517:32
+Offset: 67719
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-177273  not found at DNB
+Match: not found
+Start location: 1760:32
+Offset: 78474
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-177312  not found at DNB
+Match: not found
+Start location: 1765:32
+Offset: 78757
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-179671  not found at DNB
+Match: not found
+Start location: 1913:32
+Offset: 85332
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-180288  not found at DNB
+Match: not found
+Start location: 1949:32
+Offset: 86979
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-184356  not found at DNB
+Match: not found
+Start location: 1997:32
+Offset: 89154
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-191765  not found at DNB
+Match: not found
+Start location: 2062:32
+Offset: 92077
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-203412  not found at DNB
+Match: not found
+Start location: 2199:32
+Offset: 98168
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-204549  not found at DNB
+Match: not found
+Start location: 2210:32
+Offset: 98715
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-204631  not found at DNB
+Match: not found
+Start location: 2220:32
+Offset: 99218
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-204648  not found at DNB
+Match: not found
+Start location: 2222:32
+Offset: 99369
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-204659  not found at DNB
+Match: not found
+Start location: 2224:32
+Offset: 99520
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-204667  not found at DNB
+Match: not found
+Start location: 2226:32
+Offset: 99671
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-204678  not found at DNB
+Match: not found
+Start location: 2228:32
+Offset: 99822
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-204704  not found at DNB
+Match: not found
+Start location: 2230:32
+Offset: 99973
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-204719  not found at DNB
+Match: not found
+Start location: 2232:32
+Offset: 100124
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-204728  not found at DNB
+Match: not found
+Start location: 2234:32
+Offset: 100275
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-204732  not found at DNB
+Match: not found
+Start location: 2236:32
+Offset: 100426
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-204756  not found at DNB
+Match: not found
+Start location: 2238:32
+Offset: 100577
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-204763  not found at DNB
+Match: not found
+Start location: 2240:32
+Offset: 100728
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-204789  not found at DNB
+Match: not found
+Start location: 2242:32
+Offset: 100879
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-204853  not found at DNB
+Match: not found
+Start location: 2250:32
+Offset: 101294
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-204899  not found at DNB
+Match: not found
+Start location: 2253:32
+Offset: 101489
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-204904  not found at DNB
+Match: not found
+Start location: 2255:32
+Offset: 101640
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-204925  not found at DNB
+Match: not found
+Start location: 2258:32
+Offset: 101835
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-205119  not found at DNB
+Match: not found
+Start location: 2270:32
+Offset: 102426
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-205176  not found at DNB
+Match: not found
+Start location: 2272:32
+Offset: 102577
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-205184  not found at DNB
+Match: not found
+Start location: 2274:32
+Offset: 102728
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-205194  not found at DNB
+Match: not found
+Start location: 2276:32
+Offset: 102879
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-205207  not found at DNB
+Match: not found
+Start location: 2278:32
+Offset: 103030
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-205211  not found at DNB
+Match: not found
+Start location: 2280:32
+Offset: 103181
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-205229  not found at DNB
+Match: not found
+Start location: 2282:32
+Offset: 103332
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-205238  not found at DNB
+Match: not found
+Start location: 2284:32
+Offset: 103483
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-205241  not found at DNB
+Match: not found
+Start location: 2286:32
+Offset: 103634
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-205257  not found at DNB
+Match: not found
+Start location: 2288:32
+Offset: 103785
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-205268  not found at DNB
+Match: not found
+Start location: 2290:32
+Offset: 103936
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-205271  not found at DNB
+Match: not found
+Start location: 2292:32
+Offset: 104087
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-205827  not found at DNB
+Match: not found
+Start location: 2304:32
+Offset: 104678
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-205844  not found at DNB
+Match: not found
+Start location: 2307:32
+Offset: 104873
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-205874  not found at DNB
+Match: not found
+Start location: 2311:32
+Offset: 105112
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-205907  not found at DNB
+Match: not found
+Start location: 2313:32
+Offset: 105263
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-205916  not found at DNB
+Match: not found
+Start location: 2315:32
+Offset: 105414
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-205929  not found at DNB
+Match: not found
+Start location: 2317:32
+Offset: 105565
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-205931  not found at DNB
+Match: not found
+Start location: 2319:32
+Offset: 105716
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-205940  not found at DNB
+Match: not found
+Start location: 2321:32
+Offset: 105867
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-205952  not found at DNB
+Match: not found
+Start location: 2323:32
+Offset: 106018
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-205961  not found at DNB
+Match: not found
+Start location: 2325:32
+Offset: 106169
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-205973  not found at DNB
+Match: not found
+Start location: 2327:32
+Offset: 106320
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-205980  not found at DNB
+Match: not found
+Start location: 2329:32
+Offset: 106471
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-205992  not found at DNB
+Match: not found
+Start location: 2331:32
+Offset: 106622
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-206002  not found at DNB
+Match: not found
+Start location: 2333:32
+Offset: 106773
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-206018  not found at DNB
+Match: not found
+Start location: 2335:32
+Offset: 106924
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-206024  not found at DNB
+Match: not found
+Start location: 2337:32
+Offset: 107075
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-206036  not found at DNB
+Match: not found
+Start location: 2339:32
+Offset: 107226
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-206042  not found at DNB
+Match: not found
+Start location: 2341:32
+Offset: 107377
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-206059  not found at DNB
+Match: not found
+Start location: 2343:32
+Offset: 107528
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-206061  not found at DNB
+Match: not found
+Start location: 2345:32
+Offset: 107679
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-206075  not found at DNB
+Match: not found
+Start location: 2347:32
+Offset: 107830
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-206084  not found at DNB
+Match: not found
+Start location: 2349:32
+Offset: 107981
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-206093  not found at DNB
+Match: not found
+Start location: 2351:32
+Offset: 108132
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-206106  not found at DNB
+Match: not found
+Start location: 2353:32
+Offset: 108283
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-206110  not found at DNB
+Match: not found
+Start location: 2355:32
+Offset: 108434
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-206128  not found at DNB
+Match: not found
+Start location: 2357:32
+Offset: 108585
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-206137  not found at DNB
+Match: not found
+Start location: 2359:32
+Offset: 108736
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-206141  not found at DNB
+Match: not found
+Start location: 2361:32
+Offset: 108887
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-206156  not found at DNB
+Match: not found
+Start location: 2363:32
+Offset: 109038
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-206168  not found at DNB
+Match: not found
+Start location: 2365:32
+Offset: 109189
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-206171  not found at DNB
+Match: not found
+Start location: 2367:32
+Offset: 109340
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-206189  not found at DNB
+Match: not found
+Start location: 2369:32
+Offset: 109491
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-206197  not found at DNB
+Match: not found
+Start location: 2371:32
+Offset: 109642
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-206238  not found at DNB
+Match: not found
+Start location: 2373:32
+Offset: 109793
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-206284  not found at DNB
+Match: not found
+Start location: 2375:32
+Offset: 109944
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-206291  not found at DNB
+Match: not found
+Start location: 2377:32
+Offset: 110095
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-206314  not found at DNB
+Match: not found
+Start location: 2380:32
+Offset: 110290
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-206348  not found at DNB
+Match: not found
+Start location: 2383:32
+Offset: 110485
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-206422  not found at DNB
+Match: not found
+Start location: 2388:32
+Offset: 110768
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-206430  not found at DNB
+Match: not found
+Start location: 2390:32
+Offset: 110919
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-206484  not found at DNB
+Match: not found
+Start location: 2392:32
+Offset: 111070
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-206502  not found at DNB
+Match: not found
+Start location: 2395:32
+Offset: 111265
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-206518  not found at DNB
+Match: not found
+Start location: 2397:32
+Offset: 111416
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-206527  not found at DNB
+Match: not found
+Start location: 2399:32
+Offset: 111567
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-206531  not found at DNB
+Match: not found
+Start location: 2401:32
+Offset: 111718
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-206750  not found at DNB
+Match: not found
+Start location: 2403:32
+Offset: 111869
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-206862  not found at DNB
+Match: not found
+Start location: 2405:32
+Offset: 112020
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-207010  not found at DNB
+Match: not found
+Start location: 2407:32
+Offset: 112171
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-207184  not found at DNB
+Match: not found
+Start location: 2409:32
+Offset: 112322
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-207190  not found at DNB
+Match: not found
+Start location: 2411:32
+Offset: 112473
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-207227  not found at DNB
+Match: not found
+Start location: 2413:32
+Offset: 112624
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-207239  not found at DNB
+Match: not found
+Start location: 2415:32
+Offset: 112775
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-207248  not found at DNB
+Match: not found
+Start location: 2417:32
+Offset: 112926
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-207377  not found at DNB
+Match: not found
+Start location: 2419:32
+Offset: 113077
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-207398  not found at DNB
+Match: not found
+Start location: 2421:32
+Offset: 113228
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-207418  not found at DNB
+Match: not found
+Start location: 2423:32
+Offset: 113379
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-207427  not found at DNB
+Match: not found
+Start location: 2425:32
+Offset: 113530
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-207446  not found at DNB
+Match: not found
+Start location: 2427:32
+Offset: 113681
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-207473  not found at DNB
+Match: not found
+Start location: 2429:32
+Offset: 113832
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-207489  not found at DNB
+Match: not found
+Start location: 2431:32
+Offset: 113983
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-207510  not found at DNB
+Match: not found
+Start location: 2433:32
+Offset: 114134
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-207521  not found at DNB
+Match: not found
+Start location: 2435:32
+Offset: 114285
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-207532  not found at DNB
+Match: not found
+Start location: 2437:32
+Offset: 114436
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-207545  not found at DNB
+Match: not found
+Start location: 2439:32
+Offset: 114587
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-207626  not found at DNB
+Match: not found
+Start location: 2441:32
+Offset: 114738
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-207633  not found at DNB
+Match: not found
+Start location: 2443:32
+Offset: 114889
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-207665  not found at DNB
+Match: not found
+Start location: 2445:32
+Offset: 115040
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-207688  not found at DNB
+Match: not found
+Start location: 2447:32
+Offset: 115191
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-207690  not found at DNB
+Match: not found
+Start location: 2449:32
+Offset: 115342
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-207714  not found at DNB
+Match: not found
+Start location: 2451:32
+Offset: 115493
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-207742  not found at DNB
+Match: not found
+Start location: 2453:32
+Offset: 115644
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-207758  not found at DNB
+Match: not found
+Start location: 2455:32
+Offset: 115795
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-207779  not found at DNB
+Match: not found
+Start location: 2457:32
+Offset: 115946
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-207783  not found at DNB
+Match: not found
+Start location: 2459:32
+Offset: 116097
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-207816  not found at DNB
+Match: not found
+Start location: 2461:32
+Offset: 116248
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-207825  not found at DNB
+Match: not found
+Start location: 2463:32
+Offset: 116399
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-207835  not found at DNB
+Match: not found
+Start location: 2465:32
+Offset: 116550
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-207841  not found at DNB
+Match: not found
+Start location: 2467:32
+Offset: 116701
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-207855  not found at DNB
+Match: not found
+Start location: 2469:32
+Offset: 116852
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-207868  not found at DNB
+Match: not found
+Start location: 2471:32
+Offset: 117003
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-207875  not found at DNB
+Match: not found
+Start location: 2473:32
+Offset: 117154
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-207888  not found at DNB
+Match: not found
+Start location: 2475:32
+Offset: 117305
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-207898  not found at DNB
+Match: not found
+Start location: 2477:32
+Offset: 117456
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-207919  not found at DNB
+Match: not found
+Start location: 2479:32
+Offset: 117607
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-207928  not found at DNB
+Match: not found
+Start location: 2481:32
+Offset: 117758
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-207932  not found at DNB
+Match: not found
+Start location: 2483:32
+Offset: 117909
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-207957  not found at DNB
+Match: not found
+Start location: 2485:32
+Offset: 118060
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-208008  not found at DNB
+Match: not found
+Start location: 2487:32
+Offset: 118211
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-208038  not found at DNB
+Match: not found
+Start location: 2489:32
+Offset: 118362
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-208049  not found at DNB
+Match: not found
+Start location: 2491:32
+Offset: 118513
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-208053  not found at DNB
+Match: not found
+Start location: 2493:32
+Offset: 118664
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-208064  not found at DNB
+Match: not found
+Start location: 2495:32
+Offset: 118815
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-208076  not found at DNB
+Match: not found
+Start location: 2497:32
+Offset: 118966
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-208084  not found at DNB
+Match: not found
+Start location: 2499:32
+Offset: 119117
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-208113  not found at DNB
+Match: not found
+Start location: 2501:32
+Offset: 119268
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-208139  not found at DNB
+Match: not found
+Start location: 2503:32
+Offset: 119419
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-208148  not found at DNB
+Match: not found
+Start location: 2505:32
+Offset: 119570
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-208151  not found at DNB
+Match: not found
+Start location: 2507:32
+Offset: 119721
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-208160  not found at DNB
+Match: not found
+Start location: 2509:32
+Offset: 119872
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-208172  not found at DNB
+Match: not found
+Start location: 2511:32
+Offset: 120023
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-208189  not found at DNB
+Match: not found
+Start location: 2513:32
+Offset: 120174
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-208193  not found at DNB
+Match: not found
+Start location: 2515:32
+Offset: 120325
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-208206  not found at DNB
+Match: not found
+Start location: 2517:32
+Offset: 120476
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-208215  not found at DNB
+Match: not found
+Start location: 2519:32
+Offset: 120627
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-208222  not found at DNB
+Match: not found
+Start location: 2521:32
+Offset: 120778
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-208247  not found at DNB
+Match: not found
+Start location: 2523:32
+Offset: 120929
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-208258  not found at DNB
+Match: not found
+Start location: 2525:32
+Offset: 121080
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-208277  not found at DNB
+Match: not found
+Start location: 2527:32
+Offset: 121231
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-208404  not found at DNB
+Match: not found
+Start location: 2529:32
+Offset: 121382
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-208419  not found at DNB
+Match: not found
+Start location: 2531:32
+Offset: 121533
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-210922  not found at DNB
+Match: not found
+Start location: 2533:32
+Offset: 121684
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-224842  not found at DNB
+Match: not found
+Start location: 2535:32
+Offset: 121835
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-224883  not found at DNB
+Match: not found
+Start location: 2537:32
+Offset: 121986
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-224893  not found at DNB
+Match: not found
+Start location: 2539:32
+Offset: 122137
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-224908  not found at DNB
+Match: not found
+Start location: 2541:32
+Offset: 122288
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-224948  not found at DNB
+Match: not found
+Start location: 2543:32
+Offset: 122439
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-224959  not found at DNB
+Match: not found
+Start location: 2545:32
+Offset: 122590
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-224967  not found at DNB
+Match: not found
+Start location: 2547:32
+Offset: 122741
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0008-99525  not found at DNB
+Match: not found
+Start location: 2649:31
+Offset: 127190
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0010-106433  not found at DNB
+Match: not found
+Start location: 2728:32
+Offset: 130682
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0010-111501  not found at DNB
+Match: not found
+Start location: 2747:32
+Offset: 131581
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0010-114934  not found at DNB
+Match: not found
+Start location: 2754:32
+Offset: 131952
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0010-114951  not found at DNB
+Match: not found
+Start location: 2757:32
+Offset: 132147
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0010-114975  not found at DNB
+Match: not found
+Start location: 2760:32
+Offset: 132342
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0010-114986  not found at DNB
+Match: not found
+Start location: 2762:32
+Offset: 132493
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0010-115014  not found at DNB
+Match: not found
+Start location: 2766:32
+Offset: 132732
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0010-115039  not found at DNB
+Match: not found
+Start location: 2768:32
+Offset: 132883
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0010-116413  not found at DNB
+Match: not found
+Start location: 2792:32
+Offset: 134002
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0010-155536  not found at DNB
+Match: not found
+Start location: 3036:32
+Offset: 144801
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0010-155552  not found at DNB
+Match: not found
+Start location: 3039:32
+Offset: 144996
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0010-155563  not found at DNB
+Match: not found
+Start location: 3041:32
+Offset: 145147
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0010-178491  not found at DNB
+Match: not found
+Start location: 3106:32
+Offset: 148070
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0010-178504  not found at DNB
+Match: not found
+Start location: 3108:32
+Offset: 148221
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-106767  not found at DNB
+Match: not found
+Start location: 3111:32
+Offset: 148416
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-111992  not found at DNB
+Match: not found
+Start location: 3176:32
+Offset: 151339
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-112499  not found at DNB
+Match: not found
+Start location: 3227:32
+Offset: 153646
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-113668  not found at DNB
+Match: not found
+Start location: 3305:32
+Offset: 157141
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-117440  not found at DNB
+Match: not found
+Start location: 3503:32
+Offset: 165916
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-117865  not found at DNB
+Match: not found
+Start location: 3535:32
+Offset: 167387
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-120706  not found at DNB
+Match: not found
+Start location: 3698:32
+Offset: 174622
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-124820  not found at DNB
+Match: not found
+Start location: 4018:32
+Offset: 188765
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-125869  not found at DNB
+Match: not found
+Start location: 4046:32
+Offset: 190060
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-125871  not found at DNB
+Match: not found
+Start location: 4048:32
+Offset: 190211
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-126399  not found at DNB
+Match: not found
+Start location: 4090:32
+Offset: 192122
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-126883  not found at DNB
+Match: not found
+Start location: 4140:32
+Offset: 194385
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-129380  not found at DNB
+Match: not found
+Start location: 4372:32
+Offset: 204656
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-129425  not found at DNB
+Match: not found
+Start location: 4377:32
+Offset: 204939
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-131431  not found at DNB
+Match: not found
+Start location: 4508:32
+Offset: 210766
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-131490  not found at DNB
+Match: not found
+Start location: 4515:32
+Offset: 211137
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-134762  not found at DNB
+Match: not found
+Start location: 4774:32
+Offset: 222596
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-144433  not found at DNB
+Match: not found
+Start location: 5211:32
+Offset: 241887
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-145823  not found at DNB
+Match: not found
+Start location: 5337:32
+Offset: 247494
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-146948  not found at DNB
+Match: not found
+Start location: 5445:32
+Offset: 252309
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-146976  not found at DNB
+Match: not found
+Start location: 5449:32
+Offset: 252548
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-147088  not found at DNB
+Match: not found
+Start location: 5461:32
+Offset: 253139
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-147157  not found at DNB
+Match: not found
+Start location: 5469:32
+Offset: 253554
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-147213  not found at DNB
+Match: not found
+Start location: 5476:32
+Offset: 253925
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-147254  not found at DNB
+Match: not found
+Start location: 5481:32
+Offset: 254208
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-147638  not found at DNB
+Match: not found
+Start location: 5520:32
+Offset: 255987
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-148179  not found at DNB
+Match: not found
+Start location: 5563:32
+Offset: 257942
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-148691  not found at DNB
+Match: not found
+Start location: 5614:32
+Offset: 260249
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-157682  not found at DNB
+Match: not found
+Start location: 6388:32
+Offset: 294368
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-184031  not found at DNB
+Match: not found
+Start location: 8156:32
+Offset: 372223
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-185739  not found at DNB
+Match: not found
+Start location: 8307:32
+Offset: 378930
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-189643  not found at DNB
+Match: not found
+Start location: 8665:32
+Offset: 394745
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-189652  not found at DNB
+Match: not found
+Start location: 8667:32
+Offset: 394896
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-189765  not found at DNB
+Match: not found
+Start location: 8678:32
+Offset: 395443
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-189810  not found at DNB
+Match: not found
+Start location: 8683:32
+Offset: 395726
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-189857  not found at DNB
+Match: not found
+Start location: 8687:32
+Offset: 395965
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-190038  not found at DNB
+Match: not found
+Start location: 8691:32
+Offset: 396204
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-190168  not found at DNB
+Match: not found
+Start location: 8693:32
+Offset: 396355
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-190771  not found at DNB
+Match: not found
+Start location: 8695:32
+Offset: 396506
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-190863  not found at DNB
+Match: not found
+Start location: 8697:32
+Offset: 396657
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-190912  not found at DNB
+Match: not found
+Start location: 8699:32
+Offset: 396808
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-190927  not found at DNB
+Match: not found
+Start location: 8701:32
+Offset: 396959
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-190934  not found at DNB
+Match: not found
+Start location: 8703:32
+Offset: 397110
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-191280  not found at DNB
+Match: not found
+Start location: 8731:32
+Offset: 398405
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-191325  not found at DNB
+Match: not found
+Start location: 8736:32
+Offset: 398688
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-191350  not found at DNB
+Match: not found
+Start location: 8740:32
+Offset: 398927
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-191446  not found at DNB
+Match: not found
+Start location: 8750:32
+Offset: 399430
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-191515  not found at DNB
+Match: not found
+Start location: 8758:32
+Offset: 399845
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-191585  not found at DNB
+Match: not found
+Start location: 8766:32
+Offset: 400260
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-191914  not found at DNB
+Match: not found
+Start location: 8770:32
+Offset: 400499
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-192085  not found at DNB
+Match: not found
+Start location: 8787:32
+Offset: 401310
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-192274  not found at DNB
+Match: not found
+Start location: 8807:32
+Offset: 402253
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-192363  not found at DNB
+Match: not found
+Start location: 8817:32
+Offset: 402756
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-192394  not found at DNB
+Match: not found
+Start location: 8821:32
+Offset: 402995
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-192415  not found at DNB
+Match: not found
+Start location: 8824:32
+Offset: 403190
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-192445  not found at DNB
+Match: not found
+Start location: 8828:32
+Offset: 403429
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-192455  not found at DNB
+Match: not found
+Start location: 8830:32
+Offset: 403580
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-192475  not found at DNB
+Match: not found
+Start location: 8833:32
+Offset: 403775
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-192536  not found at DNB
+Match: not found
+Start location: 8840:32
+Offset: 404146
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-192544  not found at DNB
+Match: not found
+Start location: 8842:32
+Offset: 404297
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-192571  not found at DNB
+Match: not found
+Start location: 8845:32
+Offset: 404492
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-192580  not found at DNB
+Match: not found
+Start location: 8847:32
+Offset: 404643
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-192594  not found at DNB
+Match: not found
+Start location: 8849:32
+Offset: 404794
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-192662  not found at DNB
+Match: not found
+Start location: 8857:32
+Offset: 405209
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-192677  not found at DNB
+Match: not found
+Start location: 8859:32
+Offset: 405360
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-192758  not found at DNB
+Match: not found
+Start location: 8868:32
+Offset: 405819
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-192769  not found at DNB
+Match: not found
+Start location: 8870:32
+Offset: 405970
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-192906  not found at DNB
+Match: not found
+Start location: 8885:32
+Offset: 406693
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-192936  not found at DNB
+Match: not found
+Start location: 8889:32
+Offset: 406932
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-192946  not found at DNB
+Match: not found
+Start location: 8891:32
+Offset: 407083
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-193234  not found at DNB
+Match: not found
+Start location: 8921:32
+Offset: 408466
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-193270  not found at DNB
+Match: not found
+Start location: 8926:32
+Offset: 408749
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-193293  not found at DNB
+Match: not found
+Start location: 8929:32
+Offset: 408944
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-193417  not found at DNB
+Match: not found
+Start location: 8942:32
+Offset: 409579
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-193420  not found at DNB
+Match: not found
+Start location: 8944:32
+Offset: 409730
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-193436  not found at DNB
+Match: not found
+Start location: 8946:32
+Offset: 409881
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-193444  not found at DNB
+Match: not found
+Start location: 8948:32
+Offset: 410032
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-193453  not found at DNB
+Match: not found
+Start location: 8950:32
+Offset: 410183
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-193466  not found at DNB
+Match: not found
+Start location: 8952:32
+Offset: 410334
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-193471  not found at DNB
+Match: not found
+Start location: 8954:32
+Offset: 410485
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-193480  not found at DNB
+Match: not found
+Start location: 8956:32
+Offset: 410636
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-193493  not found at DNB
+Match: not found
+Start location: 8958:32
+Offset: 410787
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-193503  not found at DNB
+Match: not found
+Start location: 8960:32
+Offset: 410938
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-193543  not found at DNB
+Match: not found
+Start location: 8965:32
+Offset: 411221
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-193585  not found at DNB
+Match: not found
+Start location: 8970:32
+Offset: 411504
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-193620  not found at DNB
+Match: not found
+Start location: 8975:32
+Offset: 411787
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-193680  not found at DNB
+Match: not found
+Start location: 8982:32
+Offset: 412158
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-193725  not found at DNB
+Match: not found
+Start location: 8987:32
+Offset: 412441
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-193765  not found at DNB
+Match: not found
+Start location: 8992:32
+Offset: 412724
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-193798  not found at DNB
+Match: not found
+Start location: 8996:32
+Offset: 412963
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-193808  not found at DNB
+Match: not found
+Start location: 8998:32
+Offset: 413114
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-193873  not found at DNB
+Match: not found
+Start location: 9006:32
+Offset: 413529
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-193893  not found at DNB
+Match: not found
+Start location: 9008:32
+Offset: 413680
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-193954  not found at DNB
+Match: not found
+Start location: 9015:32
+Offset: 414051
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-194146  not found at DNB
+Match: not found
+Start location: 9033:32
+Offset: 414906
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-194157  not found at DNB
+Match: not found
+Start location: 9035:32
+Offset: 415057
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-194179  not found at DNB
+Match: not found
+Start location: 9038:32
+Offset: 415252
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-194192  not found at DNB
+Match: not found
+Start location: 9041:32
+Offset: 415447
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-194255  not found at DNB
+Match: not found
+Start location: 9048:32
+Offset: 415818
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-194344  not found at DNB
+Match: not found
+Start location: 9055:32
+Offset: 416189
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-194352  not found at DNB
+Match: not found
+Start location: 9057:32
+Offset: 416340
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-194424  not found at DNB
+Match: not found
+Start location: 9065:32
+Offset: 416755
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-194450  not found at DNB
+Match: not found
+Start location: 9069:32
+Offset: 416994
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-194462  not found at DNB
+Match: not found
+Start location: 9071:32
+Offset: 417145
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-194511  not found at DNB
+Match: not found
+Start location: 9077:32
+Offset: 417472
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-194538  not found at DNB
+Match: not found
+Start location: 9080:32
+Offset: 417667
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-194569  not found at DNB
+Match: not found
+Start location: 9084:32
+Offset: 417906
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-194630  not found at DNB
+Match: not found
+Start location: 9091:32
+Offset: 418277
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-194665  not found at DNB
+Match: not found
+Start location: 9095:32
+Offset: 418516
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-194678  not found at DNB
+Match: not found
+Start location: 9097:32
+Offset: 418667
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-194773  not found at DNB
+Match: not found
+Start location: 9107:32
+Offset: 419170
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-194792  not found at DNB
+Match: not found
+Start location: 9110:32
+Offset: 419365
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-194802  not found at DNB
+Match: not found
+Start location: 9112:32
+Offset: 419516
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-194819  not found at DNB
+Match: not found
+Start location: 9114:32
+Offset: 419667
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-194824  not found at DNB
+Match: not found
+Start location: 9116:32
+Offset: 419818
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-194868  not found at DNB
+Match: not found
+Start location: 9121:32
+Offset: 420101
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-194879  not found at DNB
+Match: not found
+Start location: 9123:32
+Offset: 420252
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-194885  not found at DNB
+Match: not found
+Start location: 9125:32
+Offset: 420403
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-194897  not found at DNB
+Match: not found
+Start location: 9127:32
+Offset: 420554
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-194926  not found at DNB
+Match: not found
+Start location: 9131:32
+Offset: 420793
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-194993  not found at DNB
+Match: not found
+Start location: 9139:32
+Offset: 421208
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-195006  not found at DNB
+Match: not found
+Start location: 9141:32
+Offset: 421359
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-195113  not found at DNB
+Match: not found
+Start location: 9152:32
+Offset: 421906
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-195124  not found at DNB
+Match: not found
+Start location: 9154:32
+Offset: 422057
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-195169  not found at DNB
+Match: not found
+Start location: 9157:32
+Offset: 422252
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-195175  not found at DNB
+Match: not found
+Start location: 9159:32
+Offset: 422403
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-195196  not found at DNB
+Match: not found
+Start location: 9162:32
+Offset: 422598
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-195216  not found at DNB
+Match: not found
+Start location: 9165:32
+Offset: 422793
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-195244  not found at DNB
+Match: not found
+Start location: 9169:32
+Offset: 423032
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-195252  not found at DNB
+Match: not found
+Start location: 9171:32
+Offset: 423183
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-195271  not found at DNB
+Match: not found
+Start location: 9174:32
+Offset: 423378
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-195280  not found at DNB
+Match: not found
+Start location: 9176:32
+Offset: 423529
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-195362  not found at DNB
+Match: not found
+Start location: 9183:32
+Offset: 423900
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-195385  not found at DNB
+Match: not found
+Start location: 9186:32
+Offset: 424095
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-195406  not found at DNB
+Match: not found
+Start location: 9188:32
+Offset: 424246
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-195411  not found at DNB
+Match: not found
+Start location: 9190:32
+Offset: 424397
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-195468  not found at DNB
+Match: not found
+Start location: 9196:32
+Offset: 424724
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-200703  not found at DNB
+Match: not found
+Start location: 9603:32
+Offset: 442695
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-200724  not found at DNB
+Match: not found
+Start location: 9606:32
+Offset: 442890
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-200732  not found at DNB
+Match: not found
+Start location: 9608:32
+Offset: 443041
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-200746  not found at DNB
+Match: not found
+Start location: 9610:32
+Offset: 443192
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-200773  not found at DNB
+Match: not found
+Start location: 9614:32
+Offset: 443431
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-200784  not found at DNB
+Match: not found
+Start location: 9616:32
+Offset: 443582
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-200794  not found at DNB
+Match: not found
+Start location: 9618:32
+Offset: 443733
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-200807  not found at DNB
+Match: not found
+Start location: 9620:32
+Offset: 443884
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-200833  not found at DNB
+Match: not found
+Start location: 9624:32
+Offset: 444123
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-200862  not found at DNB
+Match: not found
+Start location: 9628:32
+Offset: 444362
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-200879  not found at DNB
+Match: not found
+Start location: 9630:32
+Offset: 444513
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-200914  not found at DNB
+Match: not found
+Start location: 9635:32
+Offset: 444796
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-200968  not found at DNB
+Match: not found
+Start location: 9641:32
+Offset: 445123
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-200981  not found at DNB
+Match: not found
+Start location: 9643:32
+Offset: 445274
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-201035  not found at DNB
+Match: not found
+Start location: 9648:32
+Offset: 445557
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-201043  not found at DNB
+Match: not found
+Start location: 9650:32
+Offset: 445708
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-201055  not found at DNB
+Match: not found
+Start location: 9652:32
+Offset: 445859
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-201070  not found at DNB
+Match: not found
+Start location: 9655:32
+Offset: 446054
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-201085  not found at DNB
+Match: not found
+Start location: 9657:32
+Offset: 446205
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-201120  not found at DNB
+Match: not found
+Start location: 9661:32
+Offset: 446444
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-201136  not found at DNB
+Match: not found
+Start location: 9663:32
+Offset: 446595
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-201142  not found at DNB
+Match: not found
+Start location: 9665:32
+Offset: 446746
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-201152  not found at DNB
+Match: not found
+Start location: 9667:32
+Offset: 446897
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-201164  not found at DNB
+Match: not found
+Start location: 9669:32
+Offset: 447048
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-201175  not found at DNB
+Match: not found
+Start location: 9671:32
+Offset: 447199
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-201180  not found at DNB
+Match: not found
+Start location: 9673:32
+Offset: 447350
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-201206  not found at DNB
+Match: not found
+Start location: 9675:32
+Offset: 447501
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-201241  not found at DNB
+Match: not found
+Start location: 9680:32
+Offset: 447784
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-201250  not found at DNB
+Match: not found
+Start location: 9682:32
+Offset: 447935
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-201285  not found at DNB
+Match: not found
+Start location: 9684:32
+Offset: 448086
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-201297  not found at DNB
+Match: not found
+Start location: 9686:32
+Offset: 448237
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-201312  not found at DNB
+Match: not found
+Start location: 9689:32
+Offset: 448432
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-201340  not found at DNB
+Match: not found
+Start location: 9693:32
+Offset: 448671
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-201357  not found at DNB
+Match: not found
+Start location: 9695:32
+Offset: 448822
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-201404  not found at DNB
+Match: not found
+Start location: 9701:32
+Offset: 449149
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-201424  not found at DNB
+Match: not found
+Start location: 9704:32
+Offset: 449344
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-201508  not found at DNB
+Match: not found
+Start location: 9711:32
+Offset: 449715
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-201529  not found at DNB
+Match: not found
+Start location: 9714:32
+Offset: 449910
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-201547  not found at DNB
+Match: not found
+Start location: 9717:32
+Offset: 450105
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-201659  not found at DNB
+Match: not found
+Start location: 9726:32
+Offset: 450564
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-201666  not found at DNB
+Match: not found
+Start location: 9728:32
+Offset: 450715
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-201673  not found at DNB
+Match: not found
+Start location: 9730:32
+Offset: 450866
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-201710  not found at DNB
+Match: not found
+Start location: 9734:32
+Offset: 451105
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-201732  not found at DNB
+Match: not found
+Start location: 9737:32
+Offset: 451300
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-201823  not found at DNB
+Match: not found
+Start location: 9745:32
+Offset: 451715
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-201833  not found at DNB
+Match: not found
+Start location: 9747:32
+Offset: 451866
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-201844  not found at DNB
+Match: not found
+Start location: 9749:32
+Offset: 452017
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-201854  not found at DNB
+Match: not found
+Start location: 9751:32
+Offset: 452168
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-201956  not found at DNB
+Match: not found
+Start location: 9759:32
+Offset: 452583
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-202209  not found at DNB
+Match: not found
+Start location: 9761:32
+Offset: 452734
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-202212  not found at DNB
+Match: not found
+Start location: 9763:32
+Offset: 452885
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-202257  not found at DNB
+Match: not found
+Start location: 9768:32
+Offset: 453168
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-202324  not found at DNB
+Match: not found
+Start location: 9774:32
+Offset: 453495
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-202339  not found at DNB
+Match: not found
+Start location: 9776:32
+Offset: 453646
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-202348  not found at DNB
+Match: not found
+Start location: 9778:32
+Offset: 453797
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-202384  not found at DNB
+Match: not found
+Start location: 9783:32
+Offset: 454080
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-202416  not found at DNB
+Match: not found
+Start location: 9787:32
+Offset: 454319
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-202447  not found at DNB
+Match: not found
+Start location: 9791:32
+Offset: 454558
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-202452  not found at DNB
+Match: not found
+Start location: 9793:32
+Offset: 454709
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-202546  not found at DNB
+Match: not found
+Start location: 9803:32
+Offset: 455212
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-202584  not found at DNB
+Match: not found
+Start location: 9808:32
+Offset: 455495
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-202592  not found at DNB
+Match: not found
+Start location: 9810:32
+Offset: 455646
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-202610  not found at DNB
+Match: not found
+Start location: 9813:32
+Offset: 455841
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-202628  not found at DNB
+Match: not found
+Start location: 9815:32
+Offset: 455992
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-202656  not found at DNB
+Match: not found
+Start location: 9819:32
+Offset: 456231
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-202662  not found at DNB
+Match: not found
+Start location: 9821:32
+Offset: 456382
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-202689  not found at DNB
+Match: not found
+Start location: 9824:32
+Offset: 456577
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-202754  not found at DNB
+Match: not found
+Start location: 9831:32
+Offset: 456948
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-202768  not found at DNB
+Match: not found
+Start location: 9833:32
+Offset: 457099
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-202774  not found at DNB
+Match: not found
+Start location: 9835:32
+Offset: 457250
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-202834  not found at DNB
+Match: not found
+Start location: 9841:32
+Offset: 457577
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-202842  not found at DNB
+Match: not found
+Start location: 9843:32
+Offset: 457728
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-202851  not found at DNB
+Match: not found
+Start location: 9845:32
+Offset: 457879
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-202879  not found at DNB
+Match: not found
+Start location: 9848:32
+Offset: 458074
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-202889  not found at DNB
+Match: not found
+Start location: 9850:32
+Offset: 458225
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-202894  not found at DNB
+Match: not found
+Start location: 9852:32
+Offset: 458376
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-202909  not found at DNB
+Match: not found
+Start location: 9854:32
+Offset: 458527
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-202917  not found at DNB
+Match: not found
+Start location: 9856:32
+Offset: 458678
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203004  not found at DNB
+Match: not found
+Start location: 9865:32
+Offset: 459137
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203019  not found at DNB
+Match: not found
+Start location: 9867:32
+Offset: 459288
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203037  not found at DNB
+Match: not found
+Start location: 9869:32
+Offset: 459439
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203040  not found at DNB
+Match: not found
+Start location: 9871:32
+Offset: 459590
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203059  not found at DNB
+Match: not found
+Start location: 9873:32
+Offset: 459741
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203060  not found at DNB
+Match: not found
+Start location: 9875:32
+Offset: 459892
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203071  not found at DNB
+Match: not found
+Start location: 9877:32
+Offset: 460043
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203108  not found at DNB
+Match: not found
+Start location: 9880:32
+Offset: 460238
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203129  not found at DNB
+Match: not found
+Start location: 9883:32
+Offset: 460433
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203138  not found at DNB
+Match: not found
+Start location: 9885:32
+Offset: 460584
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203149  not found at DNB
+Match: not found
+Start location: 9887:32
+Offset: 460735
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203189  not found at DNB
+Match: not found
+Start location: 9891:32
+Offset: 460974
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203199  not found at DNB
+Match: not found
+Start location: 9893:32
+Offset: 461125
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203213  not found at DNB
+Match: not found
+Start location: 9896:32
+Offset: 461320
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203248  not found at DNB
+Match: not found
+Start location: 9900:32
+Offset: 461559
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203263  not found at DNB
+Match: not found
+Start location: 9903:32
+Offset: 461754
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203293  not found at DNB
+Match: not found
+Start location: 9907:32
+Offset: 461993
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203306  not found at DNB
+Match: not found
+Start location: 9909:32
+Offset: 462144
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203347  not found at DNB
+Match: not found
+Start location: 9912:32
+Offset: 462339
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203473  not found at DNB
+Match: not found
+Start location: 9916:32
+Offset: 462578
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203491  not found at DNB
+Match: not found
+Start location: 9919:32
+Offset: 462773
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203504  not found at DNB
+Match: not found
+Start location: 9921:32
+Offset: 462924
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203519  not found at DNB
+Match: not found
+Start location: 9923:32
+Offset: 463075
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203544  not found at DNB
+Match: not found
+Start location: 9927:32
+Offset: 463314
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203556  not found at DNB
+Match: not found
+Start location: 9929:32
+Offset: 463465
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203562  not found at DNB
+Match: not found
+Start location: 9931:32
+Offset: 463616
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203578  not found at DNB
+Match: not found
+Start location: 9933:32
+Offset: 463767
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203589  not found at DNB
+Match: not found
+Start location: 9935:32
+Offset: 463918
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203622  not found at DNB
+Match: not found
+Start location: 9940:32
+Offset: 464201
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203633  not found at DNB
+Match: not found
+Start location: 9942:32
+Offset: 464352
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203668  not found at DNB
+Match: not found
+Start location: 9946:32
+Offset: 464591
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203674  not found at DNB
+Match: not found
+Start location: 9948:32
+Offset: 464742
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203702  not found at DNB
+Match: not found
+Start location: 9951:32
+Offset: 464937
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203713  not found at DNB
+Match: not found
+Start location: 9953:32
+Offset: 465088
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203727  not found at DNB
+Match: not found
+Start location: 9955:32
+Offset: 465239
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203734  not found at DNB
+Match: not found
+Start location: 9957:32
+Offset: 465390
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203742  not found at DNB
+Match: not found
+Start location: 9959:32
+Offset: 465541
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203751  not found at DNB
+Match: not found
+Start location: 9961:32
+Offset: 465692
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203789  not found at DNB
+Match: not found
+Start location: 9965:32
+Offset: 465931
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203793  not found at DNB
+Match: not found
+Start location: 9967:32
+Offset: 466082
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203815  not found at DNB
+Match: not found
+Start location: 9970:32
+Offset: 466277
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203835  not found at DNB
+Match: not found
+Start location: 9973:32
+Offset: 466472
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203875  not found at DNB
+Match: not found
+Start location: 9976:32
+Offset: 466667
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203897  not found at DNB
+Match: not found
+Start location: 9979:32
+Offset: 466862
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203902  not found at DNB
+Match: not found
+Start location: 9981:32
+Offset: 467013
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203919  not found at DNB
+Match: not found
+Start location: 9983:32
+Offset: 467164
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203924  not found at DNB
+Match: not found
+Start location: 9985:32
+Offset: 467315
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203932  not found at DNB
+Match: not found
+Start location: 9987:32
+Offset: 467466
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203947  not found at DNB
+Match: not found
+Start location: 9989:32
+Offset: 467617
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203950  not found at DNB
+Match: not found
+Start location: 9991:32
+Offset: 467768
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203966  not found at DNB
+Match: not found
+Start location: 9993:32
+Offset: 467919
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203974  not found at DNB
+Match: not found
+Start location: 9995:32
+Offset: 468070
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203985  not found at DNB
+Match: not found
+Start location: 9997:32
+Offset: 468221
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-203997  not found at DNB
+Match: not found
+Start location: 9999:32
+Offset: 468372
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-204007  not found at DNB
+Match: not found
+Start location: 10001:32
+Offset: 468523
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-204011  not found at DNB
+Match: not found
+Start location: 10003:32
+Offset: 468674
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-204029  not found at DNB
+Match: not found
+Start location: 10005:32
+Offset: 468825
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-204038  not found at DNB
+Match: not found
+Start location: 10007:32
+Offset: 468976
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-204049  not found at DNB
+Match: not found
+Start location: 10009:32
+Offset: 469127
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-204066  not found at DNB
+Match: not found
+Start location: 10011:32
+Offset: 469278
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-204101  not found at DNB
+Match: not found
+Start location: 10013:32
+Offset: 469429
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-204113  not found at DNB
+Match: not found
+Start location: 10015:32
+Offset: 469580
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-204148  not found at DNB
+Match: not found
+Start location: 10017:32
+Offset: 469731
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-204163  not found at DNB
+Match: not found
+Start location: 10020:32
+Offset: 469926
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-204172  not found at DNB
+Match: not found
+Start location: 10022:32
+Offset: 470077
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-204205  not found at DNB
+Match: not found
+Start location: 10025:32
+Offset: 470272
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-204215  not found at DNB
+Match: not found
+Start location: 10027:32
+Offset: 470423
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-204228  not found at DNB
+Match: not found
+Start location: 10029:32
+Offset: 470574
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-204247  not found at DNB
+Match: not found
+Start location: 10032:32
+Offset: 470769
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-204251  not found at DNB
+Match: not found
+Start location: 10034:32
+Offset: 470920
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-204277  not found at DNB
+Match: not found
+Start location: 10037:32
+Offset: 471115
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-204296  not found at DNB
+Match: not found
+Start location: 10040:32
+Offset: 471310
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-204317  not found at DNB
+Match: not found
+Start location: 10043:32
+Offset: 471505
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-204323  not found at DNB
+Match: not found
+Start location: 10045:32
+Offset: 471656
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-204331  not found at DNB
+Match: not found
+Start location: 10047:32
+Offset: 471807
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-204345  not found at DNB
+Match: not found
+Start location: 10049:32
+Offset: 471958
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-204359  not found at DNB
+Match: not found
+Start location: 10051:32
+Offset: 472109
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-204365  not found at DNB
+Match: not found
+Start location: 10053:32
+Offset: 472260
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-204373  not found at DNB
+Match: not found
+Start location: 10055:32
+Offset: 472411
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-209777  not found at DNB
+Match: not found
+Start location: 10065:32
+Offset: 472914
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-220469  not found at DNB
+Match: not found
+Start location: 10067:32
+Offset: 473065
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0011-223222  not found at DNB
+Match: not found
+Start location: 10069:32
+Offset: 473216
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-120159  not found at DNB
+Match: not found
+Start location: 10081:32
+Offset: 473807
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-137971  not found at DNB
+Match: not found
+Start location: 10156:32
+Offset: 477170
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-162775  not found at DNB
+Match: not found
+Start location: 10632:32
+Offset: 498177
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-204452  not found at DNB
+Match: not found
+Start location: 10780:32
+Offset: 504752
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-207793  not found at DNB
+Match: not found
+Start location: 10818:32
+Offset: 506487
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-207988  not found at DNB
+Match: not found
+Start location: 10821:32
+Offset: 506682
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-208282  not found at DNB
+Match: not found
+Start location: 10823:32
+Offset: 506833
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-208296  not found at DNB
+Match: not found
+Start location: 10825:32
+Offset: 506984
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-208323  not found at DNB
+Match: not found
+Start location: 10827:32
+Offset: 507135
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-208333  not found at DNB
+Match: not found
+Start location: 10829:32
+Offset: 507286
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-208347  not found at DNB
+Match: not found
+Start location: 10831:32
+Offset: 507437
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-208354  not found at DNB
+Match: not found
+Start location: 10833:32
+Offset: 507588
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-208365  not found at DNB
+Match: not found
+Start location: 10835:32
+Offset: 507739
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-208387  not found at DNB
+Match: not found
+Start location: 10837:32
+Offset: 507890
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-208390  not found at DNB
+Match: not found
+Start location: 10839:32
+Offset: 508041
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-208446  not found at DNB
+Match: not found
+Start location: 10841:32
+Offset: 508192
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-208451  not found at DNB
+Match: not found
+Start location: 10843:32
+Offset: 508343
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-208461  not found at DNB
+Match: not found
+Start location: 10845:32
+Offset: 508494
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-208474  not found at DNB
+Match: not found
+Start location: 10847:32
+Offset: 508645
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-208507  not found at DNB
+Match: not found
+Start location: 10849:32
+Offset: 508796
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-208516  not found at DNB
+Match: not found
+Start location: 10851:32
+Offset: 508947
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-208522  not found at DNB
+Match: not found
+Start location: 10853:32
+Offset: 509098
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-208535  not found at DNB
+Match: not found
+Start location: 10855:32
+Offset: 509249
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-208545  not found at DNB
+Match: not found
+Start location: 10857:32
+Offset: 509400
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-208558  not found at DNB
+Match: not found
+Start location: 10859:32
+Offset: 509551
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-208568  not found at DNB
+Match: not found
+Start location: 10861:32
+Offset: 509702
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-208587  not found at DNB
+Match: not found
+Start location: 10863:32
+Offset: 509853
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-208598  not found at DNB
+Match: not found
+Start location: 10865:32
+Offset: 510004
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-208601  not found at DNB
+Match: not found
+Start location: 10867:32
+Offset: 510155
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-208636  not found at DNB
+Match: not found
+Start location: 10869:32
+Offset: 510306
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-208656  not found at DNB
+Match: not found
+Start location: 10871:32
+Offset: 510457
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-208682  not found at DNB
+Match: not found
+Start location: 10873:32
+Offset: 510608
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-208692  not found at DNB
+Match: not found
+Start location: 10875:32
+Offset: 510759
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-209728  not found at DNB
+Match: not found
+Start location: 10877:32
+Offset: 510910
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-209737  not found at DNB
+Match: not found
+Start location: 10879:32
+Offset: 511061
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-209741  not found at DNB
+Match: not found
+Start location: 10881:32
+Offset: 511212
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-209757  not found at DNB
+Match: not found
+Start location: 10883:32
+Offset: 511363
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-209768  not found at DNB
+Match: not found
+Start location: 10885:32
+Offset: 511514
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-210903  not found at DNB
+Match: not found
+Start location: 10887:32
+Offset: 511665
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-210914  not found at DNB
+Match: not found
+Start location: 10889:32
+Offset: 511816
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-210947  not found at DNB
+Match: not found
+Start location: 10891:32
+Offset: 511967
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-210952  not found at DNB
+Match: not found
+Start location: 10893:32
+Offset: 512118
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-213264  not found at DNB
+Match: not found
+Start location: 10895:32
+Offset: 512269
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-213272  not found at DNB
+Match: not found
+Start location: 10897:32
+Offset: 512420
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-214613  not found at DNB
+Match: not found
+Start location: 10899:32
+Offset: 512571
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-214623  not found at DNB
+Match: not found
+Start location: 10901:32
+Offset: 512722
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-214634  not found at DNB
+Match: not found
+Start location: 10903:32
+Offset: 512873
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-214648  not found at DNB
+Match: not found
+Start location: 10905:32
+Offset: 513024
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-217066  not found at DNB
+Match: not found
+Start location: 10907:32
+Offset: 513175
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-217072  not found at DNB
+Match: not found
+Start location: 10909:32
+Offset: 513326
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-217082  not found at DNB
+Match: not found
+Start location: 10911:32
+Offset: 513477
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-217131  not found at DNB
+Match: not found
+Start location: 10913:32
+Offset: 513628
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-217140  not found at DNB
+Match: not found
+Start location: 10915:32
+Offset: 513779
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-218496  not found at DNB
+Match: not found
+Start location: 10917:32
+Offset: 513930
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-218509  not found at DNB
+Match: not found
+Start location: 10919:32
+Offset: 514081
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-220049  not found at DNB
+Match: not found
+Start location: 10921:32
+Offset: 514232
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-220058  not found at DNB
+Match: not found
+Start location: 10923:32
+Offset: 514383
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-220118  not found at DNB
+Match: not found
+Start location: 10925:32
+Offset: 514534
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-220136  not found at DNB
+Match: not found
+Start location: 10927:32
+Offset: 514685
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-220148  not found at DNB
+Match: not found
+Start location: 10929:32
+Offset: 514836
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-220156  not found at DNB
+Match: not found
+Start location: 10931:32
+Offset: 514987
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-220165  not found at DNB
+Match: not found
+Start location: 10933:32
+Offset: 515138
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-220192  not found at DNB
+Match: not found
+Start location: 10935:32
+Offset: 515289
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-220205  not found at DNB
+Match: not found
+Start location: 10937:32
+Offset: 515440
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-220221  not found at DNB
+Match: not found
+Start location: 10939:32
+Offset: 515591
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-220237  not found at DNB
+Match: not found
+Start location: 10941:32
+Offset: 515742
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-220247  not found at DNB
+Match: not found
+Start location: 10943:32
+Offset: 515893
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-220283  not found at DNB
+Match: not found
+Start location: 10945:32
+Offset: 516044
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-220577  not found at DNB
+Match: not found
+Start location: 10947:32
+Offset: 516195
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-220750  not found at DNB
+Match: not found
+Start location: 10949:32
+Offset: 516346
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-220763  not found at DNB
+Match: not found
+Start location: 10951:32
+Offset: 516497
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-220812  not found at DNB
+Match: not found
+Start location: 10953:32
+Offset: 516648
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-220829  not found at DNB
+Match: not found
+Start location: 10955:32
+Offset: 516799
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-220869  not found at DNB
+Match: not found
+Start location: 10957:32
+Offset: 516950
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-220883  not found at DNB
+Match: not found
+Start location: 10959:32
+Offset: 517101
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-220905  not found at DNB
+Match: not found
+Start location: 10961:32
+Offset: 517252
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-220930  not found at DNB
+Match: not found
+Start location: 10963:32
+Offset: 517403
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-220965  not found at DNB
+Match: not found
+Start location: 10965:32
+Offset: 517554
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-221000  not found at DNB
+Match: not found
+Start location: 10967:32
+Offset: 517705
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-221276  not found at DNB
+Match: not found
+Start location: 10969:32
+Offset: 517856
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-221288  not found at DNB
+Match: not found
+Start location: 10971:32
+Offset: 518007
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-221299  not found at DNB
+Match: not found
+Start location: 10973:32
+Offset: 518158
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-221302  not found at DNB
+Match: not found
+Start location: 10975:32
+Offset: 518309
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-221320  not found at DNB
+Match: not found
+Start location: 10977:32
+Offset: 518460
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-221339  not found at DNB
+Match: not found
+Start location: 10979:32
+Offset: 518611
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-221372  not found at DNB
+Match: not found
+Start location: 10981:32
+Offset: 518762
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-221406  not found at DNB
+Match: not found
+Start location: 10983:32
+Offset: 518913
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-221443  not found at DNB
+Match: not found
+Start location: 10985:32
+Offset: 519064
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-221460  not found at DNB
+Match: not found
+Start location: 10987:32
+Offset: 519215
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-224818  not found at DNB
+Match: not found
+Start location: 10989:32
+Offset: 519366
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-224827  not found at DNB
+Match: not found
+Start location: 10991:32
+Offset: 519517
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-224836  not found at DNB
+Match: not found
+Start location: 10993:32
+Offset: 519668
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0012-227193  not found at DNB
+Match: not found
+Start location: 10995:32
+Offset: 519819
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-178654  not found at DNB
+Match: not found
+Start location: 10997:32
+Offset: 519970
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-178684  not found at DNB
+Match: not found
+Start location: 10999:32
+Offset: 520121
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-178751  not found at DNB
+Match: not found
+Start location: 11001:32
+Offset: 520272
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-178868  not found at DNB
+Match: not found
+Start location: 11003:32
+Offset: 520423
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-178873  not found at DNB
+Match: not found
+Start location: 11005:32
+Offset: 520574
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-178884  not found at DNB
+Match: not found
+Start location: 11007:32
+Offset: 520725
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-179244  not found at DNB
+Match: not found
+Start location: 11009:32
+Offset: 520876
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-179487  not found at DNB
+Match: not found
+Start location: 11011:32
+Offset: 521027
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-179494  not found at DNB
+Match: not found
+Start location: 11013:32
+Offset: 521178
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-179504  not found at DNB
+Match: not found
+Start location: 11015:32
+Offset: 521329
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-179582  not found at DNB
+Match: not found
+Start location: 11017:32
+Offset: 521480
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-179943  not found at DNB
+Match: not found
+Start location: 11019:32
+Offset: 521631
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-179990  not found at DNB
+Match: not found
+Start location: 11021:32
+Offset: 521782
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-180025  not found at DNB
+Match: not found
+Start location: 11023:32
+Offset: 521933
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-180050  not found at DNB
+Match: not found
+Start location: 11025:32
+Offset: 522084
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-180377  not found at DNB
+Match: not found
+Start location: 11027:32
+Offset: 522235
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-182837  not found at DNB
+Match: not found
+Start location: 11029:32
+Offset: 522386
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-189951  not found at DNB
+Match: not found
+Start location: 11031:32
+Offset: 522537
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-190062  not found at DNB
+Match: not found
+Start location: 11033:32
+Offset: 522688
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-190392  not found at DNB
+Match: not found
+Start location: 11035:32
+Offset: 522839
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-190402  not found at DNB
+Match: not found
+Start location: 11037:32
+Offset: 522990
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-190589  not found at DNB
+Match: not found
+Start location: 11039:32
+Offset: 523141
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-190592  not found at DNB
+Match: not found
+Start location: 11041:32
+Offset: 523292
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-190602  not found at DNB
+Match: not found
+Start location: 11043:32
+Offset: 523443
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-190614  not found at DNB
+Match: not found
+Start location: 11045:32
+Offset: 523594
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-190621  not found at DNB
+Match: not found
+Start location: 11047:32
+Offset: 523745
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-190635  not found at DNB
+Match: not found
+Start location: 11049:32
+Offset: 523896
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-190641  not found at DNB
+Match: not found
+Start location: 11051:32
+Offset: 524047
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-190707  not found at DNB
+Match: not found
+Start location: 11053:32
+Offset: 524198
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-191860  not found at DNB
+Match: not found
+Start location: 11055:32
+Offset: 524349
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-191872  not found at DNB
+Match: not found
+Start location: 11057:32
+Offset: 524500
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-204417  not found at DNB
+Match: not found
+Start location: 11059:32
+Offset: 524651
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-204423  not found at DNB
+Match: not found
+Start location: 11061:32
+Offset: 524802
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-204431  not found at DNB
+Match: not found
+Start location: 11063:32
+Offset: 524953
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-204519  not found at DNB
+Match: not found
+Start location: 11065:32
+Offset: 525104
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-204887  not found at DNB
+Match: not found
+Start location: 11067:32
+Offset: 525255
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-204963  not found at DNB
+Match: not found
+Start location: 11069:32
+Offset: 525406
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-204979  not found at DNB
+Match: not found
+Start location: 11071:32
+Offset: 525557
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-205063  not found at DNB
+Match: not found
+Start location: 11073:32
+Offset: 525708
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-205071  not found at DNB
+Match: not found
+Start location: 11075:32
+Offset: 525859
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-205082  not found at DNB
+Match: not found
+Start location: 11077:32
+Offset: 526010
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-205097  not found at DNB
+Match: not found
+Start location: 11079:32
+Offset: 526161
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-205154  not found at DNB
+Match: not found
+Start location: 11081:32
+Offset: 526312
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-205160  not found at DNB
+Match: not found
+Start location: 11083:32
+Offset: 526463
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-205282  not found at DNB
+Match: not found
+Start location: 11085:32
+Offset: 526614
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-205295  not found at DNB
+Match: not found
+Start location: 11087:32
+Offset: 526765
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-205308  not found at DNB
+Match: not found
+Start location: 11089:32
+Offset: 526916
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-205316  not found at DNB
+Match: not found
+Start location: 11091:32
+Offset: 527067
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-205377  not found at DNB
+Match: not found
+Start location: 11093:32
+Offset: 527218
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-205402  not found at DNB
+Match: not found
+Start location: 11095:32
+Offset: 527369
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-205427  not found at DNB
+Match: not found
+Start location: 11097:32
+Offset: 527520
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-205456  not found at DNB
+Match: not found
+Start location: 11099:32
+Offset: 527671
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-205547  not found at DNB
+Match: not found
+Start location: 11101:32
+Offset: 527822
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-205565  not found at DNB
+Match: not found
+Start location: 11103:32
+Offset: 527973
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-205587  not found at DNB
+Match: not found
+Start location: 11105:32
+Offset: 528124
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-205597  not found at DNB
+Match: not found
+Start location: 11107:32
+Offset: 528275
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-205600  not found at DNB
+Match: not found
+Start location: 11109:32
+Offset: 528426
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-205612  not found at DNB
+Match: not found
+Start location: 11111:32
+Offset: 528577
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-205626  not found at DNB
+Match: not found
+Start location: 11113:32
+Offset: 528728
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-205633  not found at DNB
+Match: not found
+Start location: 11115:32
+Offset: 528879
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-205646  not found at DNB
+Match: not found
+Start location: 11117:32
+Offset: 529030
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-205650  not found at DNB
+Match: not found
+Start location: 11119:32
+Offset: 529181
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-205661  not found at DNB
+Match: not found
+Start location: 11121:32
+Offset: 529332
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-205691  not found at DNB
+Match: not found
+Start location: 11123:32
+Offset: 529483
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-205704  not found at DNB
+Match: not found
+Start location: 11125:32
+Offset: 529634
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-205734  not found at DNB
+Match: not found
+Start location: 11127:32
+Offset: 529785
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-205779  not found at DNB
+Match: not found
+Start location: 11129:32
+Offset: 529936
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-205795  not found at DNB
+Match: not found
+Start location: 11131:32
+Offset: 530087
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-206277  not found at DNB
+Match: not found
+Start location: 11133:32
+Offset: 530238
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-206478  not found at DNB
+Match: not found
+Start location: 11135:32
+Offset: 530389
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-206582  not found at DNB
+Match: not found
+Start location: 11137:32
+Offset: 530540
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-206590  not found at DNB
+Match: not found
+Start location: 11139:32
+Offset: 530691
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-206603  not found at DNB
+Match: not found
+Start location: 11141:32
+Offset: 530842
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-206621  not found at DNB
+Match: not found
+Start location: 11143:32
+Offset: 530993
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-206634  not found at DNB
+Match: not found
+Start location: 11145:32
+Offset: 531144
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-206679  not found at DNB
+Match: not found
+Start location: 11147:32
+Offset: 531295
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-206694  not found at DNB
+Match: not found
+Start location: 11149:32
+Offset: 531446
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-206707  not found at DNB
+Match: not found
+Start location: 11151:32
+Offset: 531597
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-206716  not found at DNB
+Match: not found
+Start location: 11153:32
+Offset: 531748
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-206725  not found at DNB
+Match: not found
+Start location: 11155:32
+Offset: 531899
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-206763  not found at DNB
+Match: not found
+Start location: 11157:32
+Offset: 532050
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-206775  not found at DNB
+Match: not found
+Start location: 11159:32
+Offset: 532201
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-206781  not found at DNB
+Match: not found
+Start location: 11161:32
+Offset: 532352
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-206798  not found at DNB
+Match: not found
+Start location: 11163:32
+Offset: 532503
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-207268  not found at DNB
+Match: not found
+Start location: 11165:32
+Offset: 532654
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-207346  not found at DNB
+Match: not found
+Start location: 11167:32
+Offset: 532805
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-207364  not found at DNB
+Match: not found
+Start location: 11169:32
+Offset: 532956
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-208617  not found at DNB
+Match: not found
+Start location: 11171:32
+Offset: 533107
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-208629  not found at DNB
+Match: not found
+Start location: 11173:32
+Offset: 533258
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-210939  not found at DNB
+Match: not found
+Start location: 11175:32
+Offset: 533409
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-210965  not found at DNB
+Match: not found
+Start location: 11177:32
+Offset: 533560
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-210972  not found at DNB
+Match: not found
+Start location: 11179:32
+Offset: 533711
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-214650  not found at DNB
+Match: not found
+Start location: 11181:32
+Offset: 533862
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-214661  not found at DNB
+Match: not found
+Start location: 11183:32
+Offset: 534013
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-215634  not found at DNB
+Match: not found
+Start location: 11185:32
+Offset: 534164
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-215644  not found at DNB
+Match: not found
+Start location: 11187:32
+Offset: 534315
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-218481  not found at DNB
+Match: not found
+Start location: 11189:32
+Offset: 534466
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-220035  not found at DNB
+Match: not found
+Start location: 11191:32
+Offset: 534617
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-220065  not found at DNB
+Match: not found
+Start location: 11193:32
+Offset: 534768
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-220075  not found at DNB
+Match: not found
+Start location: 11195:32
+Offset: 534919
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-220088  not found at DNB
+Match: not found
+Start location: 11197:32
+Offset: 535070
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-220096  not found at DNB
+Match: not found
+Start location: 11199:32
+Offset: 535221
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-220109  not found at DNB
+Match: not found
+Start location: 11201:32
+Offset: 535372
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-220129  not found at DNB
+Match: not found
+Start location: 11203:32
+Offset: 535523
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-220170  not found at DNB
+Match: not found
+Start location: 11205:32
+Offset: 535674
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-220219  not found at DNB
+Match: not found
+Start location: 11207:32
+Offset: 535825
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-220259  not found at DNB
+Match: not found
+Start location: 11209:32
+Offset: 535976
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-220267  not found at DNB
+Match: not found
+Start location: 11211:32
+Offset: 536127
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-220276  not found at DNB
+Match: not found
+Start location: 11213:32
+Offset: 536278
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-220294  not found at DNB
+Match: not found
+Start location: 11215:32
+Offset: 536429
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-220307  not found at DNB
+Match: not found
+Start location: 11217:32
+Offset: 536580
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-220311  not found at DNB
+Match: not found
+Start location: 11219:32
+Offset: 536731
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-220329  not found at DNB
+Match: not found
+Start location: 11221:32
+Offset: 536882
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-220338  not found at DNB
+Match: not found
+Start location: 11223:32
+Offset: 537033
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-220343  not found at DNB
+Match: not found
+Start location: 11225:32
+Offset: 537184
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-220383  not found at DNB
+Match: not found
+Start location: 11227:32
+Offset: 537335
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-220477  not found at DNB
+Match: not found
+Start location: 11229:32
+Offset: 537486
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-220487  not found at DNB
+Match: not found
+Start location: 11231:32
+Offset: 537637
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-220732  not found at DNB
+Match: not found
+Start location: 11233:32
+Offset: 537788
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-220748  not found at DNB
+Match: not found
+Start location: 11235:32
+Offset: 537939
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-220773  not found at DNB
+Match: not found
+Start location: 11237:32
+Offset: 538090
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-220782  not found at DNB
+Match: not found
+Start location: 11239:32
+Offset: 538241
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-220794  not found at DNB
+Match: not found
+Start location: 11241:32
+Offset: 538392
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-220807  not found at DNB
+Match: not found
+Start location: 11243:32
+Offset: 538543
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-220833  not found at DNB
+Match: not found
+Start location: 11245:32
+Offset: 538694
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-220847  not found at DNB
+Match: not found
+Start location: 11247:32
+Offset: 538845
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-220898  not found at DNB
+Match: not found
+Start location: 11249:32
+Offset: 538996
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-220978  not found at DNB
+Match: not found
+Start location: 11251:32
+Offset: 539147
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-220989  not found at DNB
+Match: not found
+Start location: 11253:32
+Offset: 539298
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-220998  not found at DNB
+Match: not found
+Start location: 11255:32
+Offset: 539449
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-221016  not found at DNB
+Match: not found
+Start location: 11257:32
+Offset: 539600
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-221029  not found at DNB
+Match: not found
+Start location: 11259:32
+Offset: 539751
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-221052  not found at DNB
+Match: not found
+Start location: 11261:32
+Offset: 539902
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-221070  not found at DNB
+Match: not found
+Start location: 11263:32
+Offset: 540053
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-221083  not found at DNB
+Match: not found
+Start location: 11265:32
+Offset: 540204
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-221102  not found at DNB
+Match: not found
+Start location: 11267:32
+Offset: 540355
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-221118  not found at DNB
+Match: not found
+Start location: 11269:32
+Offset: 540506
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-221124  not found at DNB
+Match: not found
+Start location: 11271:32
+Offset: 540657
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-221136  not found at DNB
+Match: not found
+Start location: 11273:32
+Offset: 540808
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-221144  not found at DNB
+Match: not found
+Start location: 11275:32
+Offset: 540959
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-221360  not found at DNB
+Match: not found
+Start location: 11277:32
+Offset: 541110
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-221387  not found at DNB
+Match: not found
+Start location: 11279:32
+Offset: 541261
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-221428  not found at DNB
+Match: not found
+Start location: 11281:32
+Offset: 541412
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0013-221495  not found at DNB
+Match: not found
+Start location: 11283:32
+Offset: 541563
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0014-208675  not found at DNB
+Match: not found
+Start location: 11285:32
+Offset: 541714
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0015-217114  not found at DNB
+Match: not found
+Start location: 11287:32
+Offset: 541865
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0015-217121  not found at DNB
+Match: not found
+Start location: 11289:32
+Offset: 542016
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0016-217099  not found at DNB
+Match: not found
+Start location: 11291:32
+Offset: 542167
+Length: 9
+
+System ID: /home/christopher/Desktop/nbn-resolver-report.txt
+Description: urn:nbn:de:bsz:15-0016-217102  not found at DNB
+Match: not found
+Start location: 11293:32
+Offset: 542318
+Length: 9
+
