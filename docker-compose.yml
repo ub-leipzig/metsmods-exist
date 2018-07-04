@@ -1,18 +1,18 @@
-version: "2.1"
+version: "3"
 
 services:
   exist:
-    image: pandorasystems/exist
+    image: evolvedbinary/exist-db:eXist-4.2.1
     container_name: exist
     ports:
       - "8900:8080"
     volumes:
-      - existdb-volume:/mnt/pandora-data/existdb
+      - existdb-volume:/exist-data
 
 volumes:
   data:
   existdb-volume:
     driver_opts:
           type: none
-          device: /mnt/pandora-data/existdb
+          device: /mnt/existdb
           o: bind
